@@ -18,6 +18,10 @@ Computational Neuroscience by University of Washington - Coursera
 
 ## Week8
 
+#### Taught by:
+#### Rajesh P. N. Rao, Professor - Computer Science & Engineering
+#### Adrienne Fairhall, Associate Professor - Physiology and Biophysics
+
 ### Rating :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon:
 ### Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon:
 
