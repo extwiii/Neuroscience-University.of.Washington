@@ -2,7 +2,7 @@
 Computational Neuroscience by University of Washington - Coursera
 * This course provides an introduction to basic computational methods for understanding what nervous systems do and for determining how they function.
 
-## Week1 - Introduction & Basic Neurobiology
+* Week1 - Introduction & Basic Neurobiology [Notes](https://d3c33hcgiwev3.cloudfront.net/_90a9b925c2e55846fb050e6d095ef57d_Week-1-Lecture-Notes.pdf?Expires=1497225600&Signature=ko5BkUPWeL3zaddAEHhlluzuQPTC9F~NzrxbL4GNSvAvevCuM~3IRexTOekTj4gRo6ZaFGWgu2TpJ6IhOrciHo14MlpfUceNsEqsQDhZEVdpftpWcoVPICGiDtFGGGUOCxKD-DOeYFyZRBKaEQW4poRldkrADm2s9ovNPihGISA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 ## Week2 - What do Neurons Encode? Neural Encoding Models
 
