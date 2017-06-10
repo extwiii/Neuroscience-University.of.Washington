@@ -2,21 +2,21 @@
 Computational Neuroscience by University of Washington - Coursera
 * This course provides an introduction to basic computational methods for understanding what nervous systems do and for determining how they function.
 
-## Week1 - Introduction & Basic Neurobiology (Rajesh Rao)
+## Week1 - Introduction & Basic Neurobiology
 
-## Week2 - What do Neurons Encode? Neural Encoding Models (Adrienne Fairhall)
+## Week2 - What do Neurons Encode? Neural Encoding Models
 
-## Week3 - Extracting Information from Neurons: Neural Decoding (Adrienne Fairhall)
+## Week3 - Extracting Information from Neurons: Neural Decoding
 
-## Week4 - Information Theory & Neural Coding (Adrienne Fairhall)
+## Week4 - Information Theory & Neural Coding
 
-## Week5
+## Week5 - Computing in Carbon
 
-## Week6
+## Week6 - Computing with Networks
 
-## Week7
+## Week7 - Networks that Learn: Plasticity in the Brain & Learning
 
-## Week8
+## Week8 - Learning from Supervision and Rewards
 
 #### Taught by:
 #### Rajesh P. N. Rao, Professor - Computer Science & Engineering
