@@ -4,11 +4,11 @@ Computational Neuroscience by University of Washington - Coursera
 
 ## Week1 - Introduction & Basic Neurobiology (Rajesh Rao)
 
-## Week2
+## Week2 - What do Neurons Encode? Neural Encoding Models (Adrienne Fairhall)
 
-## Week3
+## Week3 - Extracting Information from Neurons: Neural Decoding (Adrienne Fairhall)
 
-## Week4
+## Week4 - Information Theory & Neural Coding (Adrienne Fairhall)
 
 ## Week5
 
