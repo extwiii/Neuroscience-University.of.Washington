@@ -1,4 +1,4 @@
-# Neuroscience-University.of.Washington
+# Neuroscience-University.of.Washington :white_check_mark:
 Computational Neuroscience by University of Washington - Coursera
 * This course provides an introduction to basic computational methods for understanding what nervous systems do and for determining how they function.
 
